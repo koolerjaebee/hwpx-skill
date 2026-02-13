@@ -1,0 +1,4 @@
+interface:
+  display_name: "HWPX Toolkit"
+  short_description: "Edit HWPX safely with render-based quality validation"
+  default_prompt: "Use $hwpx to edit this .hwpx file and run strict render-based quality checks."
